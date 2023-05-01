@@ -1,0 +1,6 @@
+[submodule "sirawit_shop_client"]
+	path = sirawit_shop_client
+	url = https://github.com/sirawit75/sirawit_shop_client
+[submodule "sirawit_shop_server"]
+	path = sirawit_shop_server
+	url = https://github.com/sirawit75/sirawit_shop_server
